@@ -1,0 +1,11 @@
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.deps.json
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.dll
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.pdb
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfoInputs.cache
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfo.cs
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.csproj.CoreCompileInputs.cache
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.dll
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\refint\OrderApi.Domain.dll
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.pdb
+D:\Tram\intern\eCommerceMS\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\ref\OrderApi.Domain.dll

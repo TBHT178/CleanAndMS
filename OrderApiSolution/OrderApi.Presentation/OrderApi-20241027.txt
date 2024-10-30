@@ -1,0 +1,23 @@
+2024-10-27 17:18:39.712 +07:00 [INF] Unable to resolve service for type 'OrderApi.Application.Services.IOrderService' while attempting to activate 'OrderApi.Presentation.Controllers.OrdersController'.
+2024-10-27 17:18:39.735 +07:00 [WRN] Unable to resolve service for type 'OrderApi.Application.Services.IOrderService' while attempting to activate 'OrderApi.Presentation.Controllers.OrdersController'.
+2024-10-27 17:20:57.914 +07:00 [INF] Value cannot be null. (Parameter 'uriString')
+2024-10-27 17:20:57.936 +07:00 [WRN] Value cannot be null. (Parameter 'uriString')
+2024-10-27 17:25:32.519 +07:00 [INF] Invalid object name 'Orders'.
+2024-10-27 17:25:32.544 +07:00 [WRN] Invalid object name 'Orders'.
+2024-10-27 17:25:33.014 +07:00 [INF] Error while retrieving orders
+2024-10-27 17:25:33.016 +07:00 [WRN] Error while retrieving orders
+2024-10-27 17:27:59.965 +07:00 [INF] Invalid object name 'Orders'.
+2024-10-27 17:27:59.989 +07:00 [WRN] Invalid object name 'Orders'.
+2024-10-27 17:28:00.443 +07:00 [INF] Error while retrieving orders
+2024-10-27 17:28:00.445 +07:00 [WRN] Error while retrieving orders
+2024-10-27 17:28:52.266 +07:00 [INF] Invalid object name 'Orders'.
+2024-10-27 17:28:52.291 +07:00 [WRN] Invalid object name 'Orders'.
+2024-10-27 17:28:52.745 +07:00 [INF] Error while retrieving orders
+2024-10-27 17:28:52.748 +07:00 [WRN] Error while retrieving orders
+2024-10-27 19:01:52.206 +07:00 [INF] Value cannot be null. (Parameter 'source')
+2024-10-27 19:01:52.242 +07:00 [WRN] Value cannot be null. (Parameter 'source')
+2024-10-27 19:03:04.881 +07:00 [WRN] OnRetry, Attempt: 0 Outcome The request was canceled due to the configured HttpClient.Timeout of 1 seconds elapsing.
+2024-10-27 19:03:06.560 +07:00 [WRN] OnRetry, Attempt: 1 Outcome The request was canceled due to the configured HttpClient.Timeout of 1 seconds elapsing.
+2024-10-27 19:03:08.184 +07:00 [WRN] OnRetry, Attempt: 2 Outcome The request was canceled due to the configured HttpClient.Timeout of 1 seconds elapsing.
+2024-10-27 19:03:10.460 +07:00 [INF] The request was canceled due to the configured HttpClient.Timeout of 1 seconds elapsing.
+2024-10-27 19:03:10.463 +07:00 [WRN] The request was canceled due to the configured HttpClient.Timeout of 1 seconds elapsing.

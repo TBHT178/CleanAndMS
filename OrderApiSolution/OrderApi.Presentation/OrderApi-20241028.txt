@@ -1,0 +1,1 @@
+2024-10-28 15:29:25.605 +07:00 [WRN] OnRetry, Attempt: 0 Outcome The request was canceled due to the configured HttpClient.Timeout of 1 seconds elapsing.

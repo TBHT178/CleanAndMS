@@ -1,0 +1,17 @@
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.deps.json
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.dll
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.pdb
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\eCommerceSharedLibrary.dll
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.dll
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\eCommerceSharedLibrary.pdb
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.pdb
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.AssemblyReference.cache
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfoInputs.cache
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfo.cs
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CopyComplete
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.dll
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll

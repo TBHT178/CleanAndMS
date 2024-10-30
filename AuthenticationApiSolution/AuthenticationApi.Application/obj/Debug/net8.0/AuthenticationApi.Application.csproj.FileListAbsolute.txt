@@ -1,0 +1,15 @@
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.deps.json
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.dll
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.pdb
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\eCommerceSharedLibrary.dll
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\eCommerceSharedLibrary.pdb
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.AssemblyReference.cache
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfoInputs.cache
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfo.cs
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.CopyComplete
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.dll
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\refint\AuthenticationApi.Application.dll
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.pdb
+D:\Tram\intern\eCommerceMS\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\ref\AuthenticationApi.Application.dll

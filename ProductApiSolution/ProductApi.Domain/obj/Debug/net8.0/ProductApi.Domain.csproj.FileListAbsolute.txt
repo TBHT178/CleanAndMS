@@ -1,0 +1,11 @@
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.deps.json
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.dll
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.pdb
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfoInputs.cache
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfo.cs
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.dll
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
+D:\Tram\intern\eCommerceMS\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll

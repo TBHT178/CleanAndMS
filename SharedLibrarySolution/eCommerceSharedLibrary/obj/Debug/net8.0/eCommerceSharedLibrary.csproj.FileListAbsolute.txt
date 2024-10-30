@@ -1,0 +1,12 @@
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\bin\Debug\net8.0\eCommerceSharedLibrary.deps.json
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\bin\Debug\net8.0\eCommerceSharedLibrary.dll
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\bin\Debug\net8.0\eCommerceSharedLibrary.pdb
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\obj\Debug\net8.0\eCommerceSharedLibrary.csproj.AssemblyReference.cache
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\obj\Debug\net8.0\eCommerceSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\obj\Debug\net8.0\eCommerceSharedLibrary.AssemblyInfoInputs.cache
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\obj\Debug\net8.0\eCommerceSharedLibrary.AssemblyInfo.cs
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\obj\Debug\net8.0\eCommerceSharedLibrary.csproj.CoreCompileInputs.cache
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\obj\Debug\net8.0\eCommerceSharedLibrary.dll
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\obj\Debug\net8.0\refint\eCommerceSharedLibrary.dll
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\obj\Debug\net8.0\eCommerceSharedLibrary.pdb
+D:\Tram\intern\eCommerceMS\SharedLibrarySolution\eCommerceSharedLibrary\obj\Debug\net8.0\ref\eCommerceSharedLibrary.dll
